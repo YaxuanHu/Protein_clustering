@@ -1,0 +1,3 @@
+# esm3
+step1: ./util/build_csv.py 从fasta读取构建csv
+step2: ./esm3/seq_embedding.py 从csv文件生成embedding
